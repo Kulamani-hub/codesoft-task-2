@@ -1,6 +1,7 @@
 # codesoft-task-2
  LANDING PAGE FOR COLLEGE
 ![Uploading Screenshot 2025-07-09 113930.png…]()
+
 # 🎓 V D C College Admission Landing Page
 
 Welcome to the official landing page project for **V D C College Admissions 2025**.  
